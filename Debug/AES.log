@@ -1,0 +1,5 @@
+﻿  AES.c
+  main.c
+G:\MyC++Projects\AES\main.c(35): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+  AES.vcxproj -> G:\MyC++Projects\AES\Debug\AES.exe
